@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+body{
+    background-color: #9de3c4;
+}
+.item{
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 20vw;
+    border-radius: 16px;    
+}
+
+.link{
+    color: black;
+}
+
+.box{
+    display: inline-block;
+    width: 45vw;
+    margin: 5vw;
+    border: 2px double black;   
+    box-shadow: 1px 1px 1px black;
+}
+
+.list{
+    background-color: #4e755c;
+    border: 2px solid black;
+}
+
+.box:hover{
+    border: 4px solid black;
+    box-shadow: 5px 1px 1px black;
+}

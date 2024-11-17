@@ -1,0 +1,11 @@
+p {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+header, footer {
+    padding: 25px;
+    background-color: blue;
+    color: white;
+}
